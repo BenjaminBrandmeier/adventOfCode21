@@ -1,2 +1,1 @@
-# adventOfCode21
-https://adventofcode.com/2021
+Built with Deno (https://deno.land/), written in Typescript.
